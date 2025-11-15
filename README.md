@@ -35,11 +35,11 @@ int ReadFromFile(int fd, char *buf, int len ): reads from the opened file fd to 
 
 ==========Program Files==============
 
-ex7_final_proj.2021.cpp : the main of the project
+memsim.cpp : the main of the project
 
 =================compiling steps===================
 
-compile : g++ ex7_final_proj.2021.cpp -o project
+compile : g++ memsim.cpp -o project
 
 run : ./project
 
